@@ -27,7 +27,7 @@
 extern "C" {
 #endif
 
-LFS_EXPORT  int luaopen_lfs (lua_State *L);
+LFS_EXPORT int luaopen_lfs(lua_State *L);
 
 #ifdef __cplusplus
 }
